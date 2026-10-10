@@ -21,7 +21,8 @@ const allowedOrigins = [
   "https://autotraderadmin1.netlify.app",
   "https://autotraderonlines.netlify.app",
   "https://autotraderonlinesadmin.netlify.app",
-  "https://effervescent-sunburst-4126be.netlify.app"
+  "https://effervescent-sunburst-4126be.netlify.app",
+  "https://damiani-dashboard.netlify.app"
 
 
  
