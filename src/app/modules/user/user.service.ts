@@ -50,8 +50,8 @@ const createUser = async (payload: Partial<TUser>) => {
   payload.quantityOfOrders = 30; // Trial round orders
   payload.userDiopsitType = "trial";
   payload.userBalance = 0;
-  payload.trialRoundBalance = 10500;
-  payload.userSelectedPackage = 10500;
+  payload.trialRoundBalance = 9000;
+  payload.userSelectedPackage = 9000;
   payload.orderRound = {
     round: "trial",
     status: true,
