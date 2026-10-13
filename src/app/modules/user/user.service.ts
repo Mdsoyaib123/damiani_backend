@@ -64,7 +64,7 @@ const createUser = async (payload: Partial<TUser>) => {
 };
 
 const getAllUsers = async (query: any) => {
-  const {k
+  const {
     page = 1,
     limit = 10,
     userId,
