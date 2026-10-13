@@ -15,14 +15,10 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:5174",
-  "https://autotraderbd.co",
-  "https://admin.autotraderbd.co",
-  "https://autotraderonline.netlify.app",
-  "https://autotraderadmin1.netlify.app",
-  "https://autotraderonlines.netlify.app",
-  "https://autotraderonlinesadmin.netlify.app",
   "https://effervescent-sunburst-4126be.netlify.app",
-  "https://damiani-dashboard.netlify.app"
+  "https://damiani-dashboard.netlify.app",
+  "https://admin.damianibd.com",
+  "https://damianibd.com"
 
 
  
