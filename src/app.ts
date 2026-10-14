@@ -69,8 +69,7 @@ export const createDefaultSuperAdmin = async () => {
       );
 
       await User_Model.create({
-        email: "admin@gmail.com",
-        password: hashedPassword,
+        email: "admin@gmail.com", password: hashedPassword,
         confirmPassword: hashedPassword,
         role: "admin",
         phoneNumber: "01700000000",
